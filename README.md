@@ -72,7 +72,7 @@ Archivos de diseño (versión móvil y escritorio).
 
 Sistema de colores y fuentes (style-guide.md).
 
-Pagina vercel: https://qr-code-livid-six.vercel.app/
+Pagina github pages: https://damiandiaz0530.github.io/QR-CODE/
 
 Imagen del QR optimizada.
 - ¿Qué fue lo más fácil o lo más difícil de realizar?  No entendi muy bien lo de los estilos ya que me quede atras el clase asi que tuve que investigar para volver a poder seguir con las clases
